@@ -11,6 +11,7 @@ Logistics Industry contributes nearly 7%-8% to India's GDP, a significant chunk.
 
 **Filters**:
   1. **_Category_**: This filters out the category of the procurement. DG stands for Dry Goods, **_Igatpuri_** is the largest manufacturing plant for finished goods and the _**Rest of India**_ includes all other plants.
+
   2_.** Transporter:**_ This filters out all the transporters who have participated in the procurement.
 
 **Spend by Category:**
